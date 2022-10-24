@@ -26,6 +26,12 @@ Added some R code to /Users/skills/Projects/recipe-repositiory/.git/
 
 #### Header 4
 
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ##### Header 5
 
 ###### Header 6
